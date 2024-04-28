@@ -3,26 +3,26 @@ EXTM3U
 group-title=”Bangla”, Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-2 
-group title="Bangla", Amar Bangla Digital
+group-title="Bangla", Amar Bangla Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-3 
-group title="Bangla", Aldawah TV
+group-title="Bangla", Aldawah TV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIxIDU6MTA6NTUgUE0maGFzaF92YWx1ZT1BMy9WMFczc3pvQUhxZDBsZXpoVlFnPT0mdmFsaWRtaW51dGVzPTYwATN
 #EXTINF:-4 
-group title="Bangla", ATN Bangla
+group-title="Bangla", ATN Bangla
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIxIDU6MjE6NTAgUE0maGFzaF92YWx1ZT1wcmwdsQW5tWG81K3M3WjluYm9ucHF3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-5 
-group title="music", ATN music TV
+group-title="music", ATN music TV
 https://live.bongobd.com/hls/XkZWvCF15-9-ch_5c4660Q/1647879526/atn_music.m3u8
 #EXTINF:-6 
-group title="Bangla", Ekattor TV
+group-title="Bangla", Ekattor TV
 https://live.bongobd.com/hls/nyLIER0WCwZyOoevWRzgrw/1624029677/ekattur_tv.m3u8
 #EXTINF:-7 
-group title="Bangla", SA TV
+group-title="Bangla", SA TV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIyIDI6MDA6MzIgUE0maGFzaF92YWx1ZT1DcHlHemlqVCtzaWFGOXNiOWZrSGxnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-8 
-group title="Bangla", Star Jalsha
+group-title="Bangla", Star Jalsha
 http://208.86.19.13:81/908.stream/index.m3u8
 #EXTINF:-9
-group title="Bangla", Peace TV
+group-title="Bangla", Peace TV
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
